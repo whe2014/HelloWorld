@@ -9,5 +9,9 @@ public class ShowURL {
 	public int Show() {
 		return 1 ;
 	}
+	
+	public int hide() {
+		return -1 ;
+	}
 
 }
