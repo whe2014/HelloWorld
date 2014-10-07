@@ -5,5 +5,9 @@ public class HelloAnnArbor {
 	public HelloAnnArbor() {
 		// TODO Auto-generated constructor stub
 	}
+	
+	private String getName() {
+		return "Default Name" ;
+	}
 
 }
