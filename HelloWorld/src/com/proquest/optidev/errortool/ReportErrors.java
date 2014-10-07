@@ -10,5 +10,9 @@ public class ReportErrors {
 	public String getDefaultError() {
 		return "ok!";
 	}
+	
+	public void printErrorMsg() {
+		
+	}
 
 }
